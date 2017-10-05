@@ -1,6 +1,6 @@
 # Brandes-algorithm
 Concurent implemenation of brandes algorithm. In simple words it allows to deiscover the most important nodes in graphs, for
-example to find the most important influencers in social network
+example to find the most important influencers in social network. The code is capable to use power of all threads avaiable in computer.
 
 **Node betweenness centrality: the definition**
 
